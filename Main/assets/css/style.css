@@ -9,8 +9,8 @@ body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
   font-size: 20px;
-  background-color: #FDF8F5;
-  color: #4F4846;
+  background-color: #534285;
+  color: #030303;
 }
 
 h1,
@@ -38,12 +38,12 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #750c1a;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 10px solid #9c8d06;
 }
 
 footer {
@@ -67,7 +67,7 @@ section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
   border-top: 3px solid #DDAF94;
-  background-color:  #E8CEBF;
+  background-color:  #f7e53b;
 }
 
 form {
